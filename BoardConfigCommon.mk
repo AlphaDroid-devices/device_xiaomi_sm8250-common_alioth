@@ -66,6 +66,10 @@ MALLOC_SVELTE_FOR_LIBC32 := true
 # Camera - Miui
 TARGET_CAMERA_PACKAGE_NAME := com.android.camera
 
+
+# HWUI
+HWUI_COMPILE_FOR_PERF := true
+
 # Camera - HIDL overrideFormat
 TARGET_CAMERA_USES_NEWER_HIDL_OVERRIDE_FORMAT = true
 # Camera - HIDL overrideFormat - Alternative Version
