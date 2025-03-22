@@ -76,3 +76,10 @@ vendor.wfdservice64=enable
 
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+# Raphael Device
+ ro.product.marketname=Redmi K40 / Poco F3
+ ro.infinity.soc=Snapdragon 8 Elite
+ ro.infinity.battery=4520 mAh
+ ro.infinity.display=1080 x 2400, 120 Hz
+ ro.infinity.camera=48MP + 8MP + 5MP
